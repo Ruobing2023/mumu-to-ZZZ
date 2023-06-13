@@ -21,4 +21,4 @@ Bkg5:𝝁^+ 𝝁^−→𝝁^+ 𝝁^− 𝑾^+ 𝑾^− 𝐙 inclusive decay.𝛔
 
 4.use cut1.C to do optimization.
 
-5.Finally, use cutcounting2.C to calculate significance.(Now only use s=S/sqrt(B), s is significance, S is the number of signal, and B is the number of background.).
+5.Finally, use cutcounting2.C to calculate significance.(Now only use s=S/sqrt(B), s is significance, S is the number of signal, and B is the number of backgrounds.).
