@@ -14,7 +14,11 @@ Bkg4:𝝁^+ 𝝁^−→𝝁^+ 𝝁^− 𝒁𝒁, 𝒁→𝒍^+ 𝒍^−, 𝒁→
 Bkg5:𝝁^+ 𝝁^−→𝝁^+ 𝝁^− 𝑾^+ 𝑾^− 𝐙 inclusive decay.𝛔=𝟕.𝟗𝟗𝟑𝐞^(−𝟐) 𝐟𝐛.
 
 1.Use ntupe_chain.C to get some useful variables.
+
 2.Use compare.C to see variables' distributions.
+
 3.According to the distributions, do some cuts on variables(It's just an estimation).
+
 4.use cut1.C to do optimization.
+
 5.Finally, use cutcounting2.C to calculate significance.(Now only use s=S/sqrt(B), s is significance, S is the number of signal, and B is the number of background.).
