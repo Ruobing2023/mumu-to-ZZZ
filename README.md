@@ -14,7 +14,7 @@ Bkg4:𝝁^+ 𝝁^−→𝝁^+ 𝝁^− 𝒁𝒁, 𝒁→𝒍^+ 𝒍^−, 𝒁→
 Bkg5:𝝁^+ 𝝁^−→𝝁^+ 𝝁^− 𝑾^+ 𝑾^− 𝐙 inclusive decay.𝛔=𝟕.𝟗𝟗𝟑𝐞^(−𝟐) 𝐟𝐛.
 
 1.Use ntupe_chain.C to get some useful variables.
-
+(Now use ntuple_chain1_update.C can obtain more accurate results.)
 2.Use compare.C to see variables' distributions.
 
 3.According to the distributions, do some cuts on variables(It's just an estimation).
