@@ -17,7 +17,7 @@ Bkg5:𝝁^+ 𝝁^−→𝝁^+ 𝝁^− 𝑾^+ 𝑾^− 𝐙 inclusive decay.𝛔
 (Now use ntuple_chain1_update.C can obtain more accurate results.)
 2.Use compare.C to see variables' distributions.
 
-3.According to the distributions, do some cuts on variables(It's just an estimation).
+3.According to the distributions, give cuts on variables(It's just an estimation).
 
 4.use cut1.C to do optimization.
 
